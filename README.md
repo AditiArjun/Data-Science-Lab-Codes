@@ -1,5 +1,5 @@
 # SL3-CODES
-Consists of data science lab codes from 1 to 13 experiments. SPPU Sem 6 AI&amp;DS Branch 
+Consists of data science lab codes from 1 to 10 experiments. SPPU Sem 6 AI&amp;DS Branch 
 
 Experiment 1: Data Wrangling I - Perform the following operations using Python on any open source dataset (e.g., data.csv)
 1. Import all the required Python Libraries.
