@@ -1,6 +1,7 @@
 # SL3-CODES
 Consists of data science lab codes from 1 to 13 experiments. SPPU Sem 6 AI&amp;DS Branch 
-Experiment 1 : Data Wrangling I - Perform the following operations using Python on any open source dataset (e.g., data.csv)
+
+Experiment 1: Data Wrangling I - Perform the following operations using Python on any open source dataset (e.g., data.csv)
 1. Import all the required Python Libraries.
 2. Locate open-source data from the web (e.g., https://www.kaggle.com). Provide a clear description of the data and its source (i.e., URL of the web site).
 3. Load the Dataset into pandas dataframe.
@@ -21,7 +22,7 @@ Experiment 4: Data Analytics I - Create a Linear Regression Model using Python/R
 information about various houses in Boston through different parameters. There are 506 samples and 14 feature variables in this dataset. The objective is to predict the value of prices of the house using the given features.
 
 Experiment 5: Data Analytics II - 1. Implement logistic regression using Python/R to perform classification on Social_Network_Ads.csv dataset.
-2. Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, Recall on the given dataset.
+2. Compute the Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, Recall on the given dataset.
 
 Experiment 6: Data Analytics III - 1. Implement Simple Naïve Bayes classification algorithm using Python/R on iris.csv dataset.
 2. Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, Recall on the given dataset.
